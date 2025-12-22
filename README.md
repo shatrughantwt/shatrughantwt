@@ -19,14 +19,3 @@ I build reliable and intuitive web applications that make a difference.
 ![](https://github-contributor-stats.vercel.app/api?username=shatrughantwt&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-# 💻 Tech Stack
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shatrughantwt&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shatrughantwt&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shatrughantwt&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
