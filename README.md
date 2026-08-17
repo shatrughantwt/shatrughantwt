@@ -1,4 +1,17 @@
 
+
+#  Hi, I'm Shatrughan Mishra
+
+### Full-Stack Developer | Applied AI Learner | Open Source Contributor
+
+I'm a **Full-Stack Web Developer** focused on building practical, scalable, and user-friendly applications.
+
+I work primarily with **MERN, Next.js, TypeScript, and DevOps**, and I'm currently expanding into **Applied AI, LLM applications, RAG, AI Agents, and AI-powered automation**.
+
+I enjoy turning ideas into working products from **architecture and APIs to databases, deployment, and AI integration**.
+
+---
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Shatrughan_Mishra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shatrughantwt) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shatrughantwt) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shatrughanm485@gmail.com) 
 
